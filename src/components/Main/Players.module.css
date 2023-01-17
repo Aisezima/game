@@ -1,0 +1,45 @@
+.playersCont div{
+    display: flex;
+    /* justify-content: space-between; */
+    width: 500px;
+    margin:20px 560px  20px 435px ;
+    
+}
+.playersCont img{
+    width: 85px;
+    height: 85px;
+    border-radius: 16px;
+}
+
+.playersCont p{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 13.58px;
+}
+.playersCont li{
+    color: white;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.round {
+    width: 3px;
+    border-radius: 50px;
+    height: 3px;
+    background-color: #fff;
+    border: 2px solid white;
+    margin-top: 40px;
+    margin-right: 13.59px;
+}
+
+.line{
+    margin-top: 150px;
+    color: #444E57;
+
+    width: 1436px;
+
+    border-radius: 0px;
+    border: #444E57;
+    border: 1px solid #444E57;
+}
